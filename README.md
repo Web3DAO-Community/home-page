@@ -1,4 +1,4 @@
-# landing-page
+# home-page
 Landing page for SuperWeb3DAO
 
 Wireframe preview on Figma: 
