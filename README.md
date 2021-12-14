@@ -1,5 +1,9 @@
 # home-page
-Landing page for SuperWeb3DAO
+Welcome to the repository for SuperWeb3DAO! To join our discord at discord.gg/Tc5FNSx3. 
+
+This is the main landing page for the DAO. Join the discord to start contributing!
+
+<img width="696" alt="Screen Shot 2021-12-14 at 2 46 44 PM" src="https://user-images.githubusercontent.com/30867190/146084586-1acffec4-a7f9-442a-b150-d1e096853f9c.png">
 
 Wireframe preview on Figma: 
 
