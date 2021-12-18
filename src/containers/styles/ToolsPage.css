@@ -1,0 +1,30 @@
+.h2_color{
+    color: #9945FF;
+}
+
+.techDiv{
+    width: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.techItemDiv{
+    width: 15%;
+    min-width: 12%;
+}
+
+/* Media Queries */
+@media (max-width: 700px){
+    .techDiv{
+        width: 100%;
+        flex-direction: column;
+    }
+    .techItemDiv{
+        margin: 5%;
+    }
+}
+
+@media (min-width: 340px) and (max-width: 470px){
+}

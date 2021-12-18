@@ -1,0 +1,7 @@
+.button-bg{
+    background: linear-gradient(100.18deg, #1BFFA6 25.65%, #8C52FF 79.84%);
+}
+
+.growAnim { transition: all .2s ease-in-out; } 
+.growAnim:hover { transform: scale(1.1); }
+

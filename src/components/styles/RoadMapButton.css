@@ -1,0 +1,38 @@
+.bg-color-gradient{
+    background: linear-gradient(260.45deg, #00F7BB 20.73%, #9945FF 88.43%);
+}
+.buttonDiv{
+    width: 30%;
+    display: table;
+    /* transition: all .2s ease-in-out; */
+}
+
+.textDiv{
+    width: 70%;
+    font-size: medium;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.btn_img{
+    width: 30%;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+/* Media Queries */
+@media (max-width: 700px){
+
+    .buttonDiv{
+        width: 50%;
+    }
+    .textDiv{
+        font-size: small;
+    }
+}
+
+@media (min-width: 340px) and (max-width: 470px){
+    .buttonDiv{
+        width: 75%;
+    }
+}
