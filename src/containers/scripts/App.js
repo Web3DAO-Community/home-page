@@ -16,13 +16,25 @@ class App extends React.Component {
   render(){
     return (
       <div className='flex flex-column' >
-        <Nav />
-        <HomePage />
-        <LearningPage />
-        <RoadmapPage />
-        <JoiningPage />
-        <ToolsPage />
-        <Footer />
+          <Nav />
+        <section id='aboutPageId'>
+          <HomePage />
+        </section>
+        <section id='learningPageId'>
+          <LearningPage />
+        </section>
+        <section id='roadmapPageId'>
+          <RoadmapPage />
+        </section>
+        <section id='joiningPageId'>
+          <JoiningPage />
+        </section>
+        <section id='toolsPageId'>
+          <ToolsPage />
+        </section>
+        <section id='footerId'>
+          <Footer />
+        </section>
       </div>
     );
   }
