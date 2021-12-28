@@ -1,0 +1,43 @@
+.box-div{
+    width: 30%;
+    height: 25%;
+    background: linear-gradient(260.45deg, #D400F7 20.73%, #FFA945 88.43%);
+    margin: 2%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+.box-div p{
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+/* Media Queries */
+
+@media (max-width: 1024px){
+    .box-div{
+        width: 40%;
+    }
+}
+
+@media (max-width: 700px){
+    .box-div {
+        width: 65%;
+    }
+}
+
+@media (min-width: 340px) and (max-width: 470px){
+    .box-div {
+        width: 85%;
+    }
+}
+
+@media (max-width: 340px){
+ 
+    .box-div {
+        width: 95%;
+    }
+}

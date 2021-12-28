@@ -1,0 +1,21 @@
+{
+    "roadmap" : {
+        "steps" : [
+            {
+                "step" : "1. Join the Discord"
+            },
+            {
+                "step" : "2. Complete wallet creation tutorial, share address and earn 5 tokens"
+            },
+            {
+                "step" : "3. Start the Solidity/Rust tutorials"
+            },
+            {
+                "step" : "4. Build your first Web3 project"
+            },
+            {
+                "step" : "5. Complete WEB3 challenge to earn 50 tokens"
+            }
+        ]
+    }
+}
