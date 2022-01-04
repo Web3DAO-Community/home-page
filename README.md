@@ -1,5 +1,5 @@
 # home-page
-Welcome to the repository for SuperWeb3DAO! To join our discord at discord.gg/Tc5FNSx3. 
+Welcome to the repository for Web3DAO! To join our discord at discord.gg/Tc5FNSx3. 
 
 This is the main landing page for the DAO. Join the discord to start contributing!
 
